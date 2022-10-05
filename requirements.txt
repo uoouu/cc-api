@@ -2,4 +2,3 @@ gunicorn
 requests
 flask
 user_agent
-random
